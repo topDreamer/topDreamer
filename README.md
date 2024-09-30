@@ -3,6 +3,14 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+Ph.D. Student
+Beihang University
+
+37 Xueyuan Rd., Haidian Dist.
+
+Beijing, China, 100191
+
 ### Research Interests
 - Natural Language Processing
 - Large Language Models
